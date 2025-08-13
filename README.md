@@ -4,6 +4,8 @@
 
 ## Pre-requisites
 
+Python3 installed and some kind of OS would be ideal.
+
 ## Installation
 
 ## Usage
