@@ -1,0 +1,28 @@
+New Requirements
+
+
+Data sanitisation:
+- handling missing values 	| M		| MH
+- handling mismatched units 	| S		| MH
+- remove duplicates 		| XS		| MH
+
+
+Filtering:
+- filter out unwanted data 	| M		| CH
+- filtering (general) 		| M		| MH
+- no. of suppliers per country 	| M		| MH
+- average metric performance 	| M		| MH
+
+Documentation for Code		| L		| MH
+
+
+Data Vis 			| S		| MH
+- mean score / farm / country
+- total mean score per country
+
+Desktop App			| XL		| MH
+- filtering ability for a table to show top countries (top 5 countries)
+- need to show statistics about that country if it is clicked on
+- simplistic design
+- 'easy to use' - buttons
+
